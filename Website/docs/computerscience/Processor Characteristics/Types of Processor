@@ -1,0 +1,38 @@
+---
+id: types of processor
+description: All about different types of processors
+slug: /cs/Types-of-Processor
+---
+
+#💻 Types of Processor
+
+import { ReferenceLink } from '@site/docs/components/_nanos.mdx';
+
+Information about different types of processors and co-processors
+
+## RISC and CISC processors
+
+### Reduced Instruction Set Computer (RISC)
+
+- Small set of instructions
+- Each instruction takes up approximately one line of machine code
+- Each instruction takes one clock cycle to complete
+
+### Complex Instruction Set Computer (CISC)
+
+- Large set of instructions
+- Aims to accomplish tasks in as few lines of machine code as possible
+- Instructions are built into the hardware
+- Mostly used in microcontrollers and embedded systems
+
+### Comparisons between the two
+
+- RISC requires more work from the compiler
+- RISC requires more RAM to store the code
+- RISC allows pipelining
+
+### Graphics Processing Unit (GPU)
+
+- Is a co-processor, which has lots of independant processors included.
+- The independant processors work in parallel with one another.
+- Efficient for graphics/image rendering, and for AI/machine learning
