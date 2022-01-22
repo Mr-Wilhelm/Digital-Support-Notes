@@ -1,0 +1,55 @@
+---
+id: input, output and storage
+description: All about input & output devices, as well as storage
+slug: /cs/input-output-and-storage
+---
+
+#💽 Input, Output and Storage devices
+
+import { ReferenceLink } from '@site/docs/components/_nanos.mdx';
+
+All about Input & Output devices, including storage
+
+## Input Output and Storage devices
+
+- Input device - A device that inputs data into a computer. For example, a keyboard, webcam or microphone.
+- Output device - A device that outputs data from a computer. For example, speakers and printers.
+
+## Uses of storage
+
+### types of storage
+
+- Optical storage, read from and written to using lasers. Information is represented by parts of the disc where the laser light is either reflected or scattered.
+- types of optical storage include CD's, DVD's and blu-ray
+- Typically, optical storage has low data transfer speed, low storage capacity and is not shock proof, and can therefore break easily.
+
+- Magnetic storage, devices that store data using magnetic states (1's or 0's.) Therefore allowing any info to be stored in binary form
+- Types of magnetic storage include Hard Disk drives, magnetic tape and floppy disks.
+- Typically, magnetic storage has high storage capacity, lower data transfer speed and is not robust. It contains moving parts so is therefore more likely to break.
+
+- Flash storage, is fast and compact. Is more often than not a form of solid state memory
+- Solid State memory is very fast and robust because it contains no moving parts. However it has relatively low storage capacity and is more expensive
+
+### RAM and ROM
+
+#### RAM
+
+- Stands for random access memory
+- Is a form of Fast, main memory. Has higher access speeds than flash memory
+- Higher cost per Gigabyte.
+- Is Volatile - meaning that when power is lost, data it holds is also lost
+- RAM holds computer programs and background processes that are currently in-use. Therefore the more RAM a computer has, the more applications it can run simultaneously.
+
+#### ROM
+
+- Stands for Read Only Memory
+- Cannot be modified or Accessed (hence, read only)
+- Non-Volatile, data is retained even when power is lost
+
+### Virtual Storage
+
+- The process of storing data remotely
+- For example, cloud storage devices such as One Drive
+- Convenient to access and share. Can be accessed from anywhere with an internet connection
+- Limited by the users network speed, and usually higher costs for smaller storage capacity.
+
